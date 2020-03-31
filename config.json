@@ -1,0 +1,11 @@
+{
+	"tmdb_img_base_url": "https://image.tmdb.org/t/p/w185/",
+	"tmdb_tv_series_base_url" : "https://api.themoviedb.org/3/tv/",
+	"tmdb_person_base_url" : "https://api.themoviedb.org/3/person/",
+	"api_keys" : ["3fb5105f4a774385c922ee9e5e261d27", "643c740d03c16a51264d5928b7c1a0c2", "8e38997f0c8b5f121e16bd8c65fd0b34", "be1471f0a9ae122a6a3999064c8fd72d"],
+	"language" : "en-US",
+	"title_file" : "/home/ubuntu/Documents/Movie Scraping/Scraping/tv_series_titles_status_server.csv"
+
+}
+
+
